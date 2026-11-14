@@ -1,8 +1,11 @@
 # TaskFlow – Modern Görev Yönetimi
 
-TaskFlow, React + Vite + Tailwind CSS ile geliştirilmiş, verileri tarayıcının **LocalStorage** alanında saklayan, sade ve modern bir görev yönetim (TODO) uygulamasıdır. Bu proje, **TNC Group Web Geliştirme – JavaScript Proje Yönergesi** kapsamında geliştirilmiştir ve CRUD (Create, Read, Update, Delete) işlemlerinin tamamını içerir.
+[![Netlify](https://img.shields.io/badge/Canl%C4%B1%20Demo-Netlify-00C7B7?logo=netlify&logoColor=white)](https://spectacular-moonbeam-ec77dc.netlify.app)
+[![GitHub](https://img.shields.io/badge/Kaynak%20Kod-GitHub-181717?logo=github&logoColor=white)](https://github.com/TPertev/taskflow-todo)
 
-> 🔗 **Canlı demo:** `https://<netlify-site-adiniz>.netlify.app` &nbsp;·&nbsp; 📦 **GitHub:** [https://github.com/TPertev/taskflow-todo](https://github.com/TPertev/taskflow-todo)
+**🚀 Canlı demo:** **[spectacular-moonbeam-ec77dc.netlify.app](https://spectacular-moonbeam-ec77dc.netlify.app)**
+
+TaskFlow, React + Vite + Tailwind CSS ile geliştirilmiş, verileri tarayıcının **LocalStorage** alanında saklayan, sade ve modern bir görev yönetim (TODO) uygulamasıdır. Bu proje, **TNC Group Web Geliştirme – JavaScript Proje Yönergesi** kapsamında geliştirilmiştir ve CRUD (Create, Read, Update, Delete) işlemlerinin tamamını içerir.
 
 ![TaskFlow masaüstü görünümü](docs/screenshots/dashboard-desktop.png)
 
@@ -116,6 +119,8 @@ Proje kökündeki `netlify.toml` dosyası gerekli ayarları içerir:
 - **Node sürümü:** 22
 
 Netlify panelinde **Add new site → Import an existing project → GitHub** adımlarıyla repoyu seçmeniz yeterlidir; ayarlar otomatik okunur.
+
+Proje şu adreste yayındadır: **https://spectacular-moonbeam-ec77dc.netlify.app** — `main` dalına yapılan her push sonrası Netlify otomatik olarak yeniden yayınlar.
 
 ## Lisans
 

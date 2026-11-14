@@ -1,5 +1,10 @@
 # TaskFlow – Proje Dokümantasyonu
 
+| | Bağlantı |
+| --- | --- |
+| **Canlı site (Netlify)** | https://spectacular-moonbeam-ec77dc.netlify.app |
+| **Kaynak kod (GitHub)** | https://github.com/TPertev/taskflow-todo |
+
 ## 1. Projenin Amacı
 
 TaskFlow, **TNC Group Web Geliştirme – JavaScript Proje Yönergesi** doğrultusunda geliştirilmiş bir görev yönetim uygulamasıdır. Yönergenin temel beklentisi; modern bir JavaScript kütüphanesi ile **oluşturma, listeleme, güncelleme ve silme** (CRUD) işlemlerini yapan bir TODO uygulaması geliştirmek, Tailwind CSS / Bootstrap / Pure CSS ile stillendirmek, projeyi GitHub'a yüklemek ve Netlify üzerinde yayınlamaktır.
@@ -16,7 +21,8 @@ Proje bu zorunlulukların yanı sıra; gerçek bir SaaS ürünü hissi veren sad
 | Tailwind CSS | `@tailwindcss/vite`, `src/index.css` |
 | En az bir ekran görüntüsü | `docs/screenshots/`, README |
 | Components / Pages / Interfaces klasörleri | `src/components`, `src/pages`, `src/interfaces` |
-| Public GitHub reposu | `.gitignore` hazır, `node_modules` hariç (kullanıcı tarafından yüklenecek) |
+| Public GitHub reposu | https://github.com/TPertev/taskflow-todo (`node_modules` hariç) |
+| Netlify'da yayın | https://spectacular-moonbeam-ec77dc.netlify.app |
 
 ## 2. Kullanılan Teknolojiler
 
