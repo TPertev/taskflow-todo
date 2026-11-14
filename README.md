@@ -2,7 +2,7 @@
 
 TaskFlow, React + Vite + Tailwind CSS ile geliştirilmiş, verileri tarayıcının **LocalStorage** alanında saklayan, sade ve modern bir görev yönetim (TODO) uygulamasıdır. Bu proje, **TNC Group Web Geliştirme – JavaScript Proje Yönergesi** kapsamında geliştirilmiştir ve CRUD (Create, Read, Update, Delete) işlemlerinin tamamını içerir.
 
-> 🔗 **Canlı demo:** `https://<netlify-site-adiniz>.netlify.app` &nbsp;·&nbsp; 📦 **GitHub:** `https://github.com/<kullanici-adiniz>/taskflow-todo`
+> 🔗 **Canlı demo:** `https://<netlify-site-adiniz>.netlify.app` &nbsp;·&nbsp; 📦 **GitHub:** [https://github.com/TPertev/taskflow-todo](https://github.com/TPertev/taskflow-todo)
 
 ![TaskFlow masaüstü görünümü](docs/screenshots/dashboard-desktop.png)
 
@@ -52,7 +52,7 @@ TaskFlow, React + Vite + Tailwind CSS ile geliştirilmiş, verileri tarayıcın�
 Gereksinim: **Node.js 20.19+** (veya 22+) ve npm.
 
 ```bash
-git clone https://github.com/<kullanici-adiniz>/taskflow-todo.git
+git clone https://github.com/TPertev/taskflow-todo.git
 ```
 
 ```bash
